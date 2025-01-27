@@ -1,4 +1,4 @@
--👋 Hi, I’m @OfentseLukhele
+👋 Hi, I’m @OfentseLukhele
 👀 I’m interested in web development, IT support, and creative coding projects.
 🌱 I’m currently learning JavaScript frameworks and advanced web design techniques.
 💞️ I’m looking to collaborate on typing-related websites, responsive designs, and modern UI/UX projects.
